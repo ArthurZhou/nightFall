@@ -1,0 +1,6 @@
+{
+    "source": "local",
+    "audio": "extern/audio.mp3",
+    "lyrics": "extern/lyrics.lrc",
+    "cover": "extern/cover.jpg"
+}
